@@ -14,4 +14,3 @@
 - I create [R packages](https://nowosad.github.io/projects/)
 - I write post on [my personal blog](https://nowosad.github.io/post/) and [the Geocomputation with R blog](https://geocompr.github.io/post/)
 - I offer [workshops and consulting services](https://nowosad.github.io/services/)
-
