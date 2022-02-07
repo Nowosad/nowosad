@@ -12,5 +12,5 @@
 - I mostly work on analysing and understanding of spatial patterns
 - I write [papers and books](https://nowosad.github.io/publications/)
 - I create [R packages](https://nowosad.github.io/projects/)
-- I write post on [my personal blog](https://nowosad.github.io/post/) and [the Geocomputation with R blog](https://geocompr.github.io/post/)
+- I write post on [my personal blog](https://nowosad.github.io/posts/) and [the Geocomputation with R blog](https://geocompr.github.io/post/)
 - I offer [workshops and consulting services](https://nowosad.github.io/services/)
