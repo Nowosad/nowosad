@@ -1,8 +1,5 @@
 <p align="center">
-	<!--<a href="https://github.com/nowosad"><img src="https://img.shields.io/github/followers/nowosad.svg?label=GitHub&style=for-the-badge&color=red" alt="GitHub"></a>-->
-	<!--<a href="https://github.com/sponsors/nowosad"><img src="https://img.shields.io/badge/-GitHub_Sponsors-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors"></a>-->
-  <!--<a href="https://www.buymeacoffee.com/nowosad"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="buymeacoffee"></a>-->	
-  <a href="https://ko-fi.com/nowosad"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="ko-fi"></a>	
+  <a href="https://ko-fi.com/nowosad"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="ko-fi"></a>
   <a href="https://twitter.com/jakub_nowosad"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://fosstodon.org/@nowosad"><img src="https://img.shields.io/badge/-Mastodon-555555?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon"></a>	
 </p>
@@ -12,15 +9,19 @@
   <a href="https://www.youtube.com/channel/UC6SHy3Bm72aMQmUqeS7lEZA/playlists"><img src="https://img.shields.io/badge/-YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>	
 </p>
 
-Welcome! I'm Jakub Nowosad, and here is some information about my current work:
+### Hey there, I'm Jakub Nowosad 👋
 
-- I'm a computational geographer at [Adam Mickiewicz University, Poznan, Poland](http://international.amu.edu.pl/) 
-- I mostly work on analysing and understanding of spatial patterns
-- I write [papers and books](https://nowosad.github.io/publications)
-- I create [R packages](https://nowosad.github.io/projects)
-- I write post on [my personal blog](https://nowosad.github.io/posts) and [the Geocomputation with R blog](https://geocompr.github.io/post/)
-- I offer [workshops and consulting services](https://nowosad.github.io/services)
+I'm a computational geographer based in Poznan, Poland. My work focuses on analyzing and understanding spatial patterns, and I love sharing my insights with others.
 
-Learn more at https://jakubnowosad.com/.
+### What I'm up to 💻
 
+- Researching and writing about spatial patterns in my papers and books (check them out [here](https://jakubnowosad.com/publications))
+- Creating R packages that make geocomputation easier and more accessible to others (see my projects [here](https://jakubnowosad.com/projects))
+- Sharing my thoughts and expertise on my personal blog and the geocompx blog (read them [here](https://jakubnowosad.com/posts) and [here](https://geocompx.org/post.html))
+- Providing workshops and consulting services to help others learn about geocomputation and spatial analysis (details [here](https://jakubnowosad.com/services))
 
+### Let's connect! 🤝
+
+I'm always interested in connecting with others who share my passion for geocomputation and spatial analysis. Feel free to reach out to me on [Twitter](https://twitter.com/jakub_nowosad) or [Mastodon](https://fosstodon.org/@nowosad). You can also learn more about me and my work at [jakubnowosad.com](jakubnowosad.com).
+
+Thanks for stopping by!
