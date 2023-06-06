@@ -11,7 +11,7 @@
 
 ### Hey there, I'm Jakub Nowosad 👋
 
-I'm a computational geographer based in Poznan, Poland. My work focuses on analyzing and understanding spatial patterns, and I love sharing my insights with others.
+I'm a computational geographer based in Poznan, Poland. My work focuses on analyzing and understanding spatial patterns, and I enjoy sharing my insights with others.
 
 ### What I'm up to 💻
 
