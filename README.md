@@ -22,6 +22,6 @@ I'm a computational geographer based in Poznan, Poland. My work focuses on analy
 
 ### Let's connect! 🤝
 
-I'm always interested in connecting with others who share my passion for geocomputation and spatial analysis. Feel free to reach out to me on [Twitter](https://twitter.com/jakub_nowosad) or [Mastodon](https://fosstodon.org/@nowosad). You can also learn more about me and my work at [jakubnowosad.com](jakubnowosad.com).
+I'm always interested in connecting with others who share my passion for geocomputation and spatial analysis. Feel free to reach out to me on [Twitter](https://twitter.com/jakub_nowosad) or [Mastodon](https://fosstodon.org/@nowosad). You can also learn more about me and my work at [jakubnowosad.com](https://jakubnowosad.com).
 
 Thanks for stopping by!
