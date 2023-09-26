@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/channel/UC6SHy3Bm72aMQmUqeS7lEZA/playlists"><img src="https://img.shields.io/badge/-YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>	
 </p>
 
-### Hey there, I'm Jakub Nowosad 👋
+### Hi, I'm Jakub Nowosad 👋
 
 I'm a computational geographer based in Poznan, Poland. My work focuses on analyzing and understanding spatial patterns, and I enjoy sharing my insights with others.
 
@@ -23,5 +23,3 @@ I'm a computational geographer based in Poznan, Poland. My work focuses on analy
 ### Let's connect! 🤝
 
 I'm always interested in connecting with others who share my passion for geocomputation and spatial analysis. Feel free to reach out to me on [Twitter](https://twitter.com/jakub_nowosad) or [Mastodon](https://fosstodon.org/@nowosad). You can also learn more about me and my work at [jakubnowosad.com](https://jakubnowosad.com).
-
-Thanks for stopping by!
