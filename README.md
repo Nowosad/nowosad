@@ -13,6 +13,7 @@ I'm a computational geographer based in Poznan, Poland. My work focuses on analy
 
 I'm always interested in connecting with others who share my passion for geocomputation and spatial analysis. Feel free to reach out to me on <!--[Twitter](https://twitter.com/jakub_nowosad) or--> [Mastodon](https://fosstodon.org/@nowosad). You can also learn more about me and my work at [jakubnowosad.com](https://jakubnowosad.com).
 
+<hr>
 <p align="center">
   <a href="https://ko-fi.com/nowosad"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="ko-fi"></a>
   <!--<a href="https://twitter.com/jakub_nowosad"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>-->
