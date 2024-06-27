@@ -7,7 +7,7 @@ I'm a computational geographer based in Poznan, Poland. My work focuses on analy
 - Researching and writing about spatial patterns in my papers and books (check them out [here](https://jakubnowosad.com/publications))
 - Creating R packages that make geocomputation easier and more accessible to others (see my projects [here](https://jakubnowosad.com/projects))
 - Sharing my thoughts and expertise on my personal blog and the geocompx blog (read them [here](https://jakubnowosad.com/posts) and [here](https://geocompx.org/post.html))
-- Providing workshops and consulting services to help others learn about geocomputation and spatial analysis (details [here](https://jakubnowosad.com/services))
+<!-- - Providing workshops and consulting services to help others learn about geocomputation and spatial analysis (details [here](https://jakubnowosad.com/services)) -->
 
 ### Let's connect! 🤝
 
