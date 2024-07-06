@@ -1,6 +1,6 @@
 ### Hi, I'm Jakub Nowosad 👋
 
-I'm a computational geographer based in Poznan, Poland. My work focuses on analyzing and understanding spatial patterns, and I enjoy sharing my insights with others.
+I am a computational geographer based in Poznan, Poland. My work focuses on analyzing and understanding spatial patterns, and I enjoy sharing my insights with others.
 
 ### What I'm up to 💻
 
@@ -11,7 +11,7 @@ I'm a computational geographer based in Poznan, Poland. My work focuses on analy
 
 ### Let's connect! 🤝
 
-I'm always interested in connecting with others who share my passion for geocomputation and spatial analysis. Feel free to reach out to me on <!--[Twitter](https://twitter.com/jakub_nowosad) or--> [Mastodon](https://fosstodon.org/@nowosad). You can also learn more about me and my work at [jakubnowosad.com](https://jakubnowosad.com) and [geocompx.org](https://geocompx.org/).
+I am always interested in connecting with others who share my passion for geocomputation and spatial analysis. Feel free to reach out to me on <!--[Twitter](https://twitter.com/jakub_nowosad) or--> [Mastodon](https://fosstodon.org/@nowosad). You can also learn more about me and my work at [jakubnowosad.com](https://jakubnowosad.com) and [geocompx.org](https://geocompx.org/).
 
 <p align="center">
   <a href="https://ko-fi.com/nowosad"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="ko-fi"></a>
