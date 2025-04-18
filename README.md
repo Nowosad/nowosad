@@ -9,7 +9,7 @@ I am a computational geographer based in Münster, Germany. My work focuses on a
 - Sharing my thoughts and expertise on my personal blog and the geocomp*x* blog (read them [here](https://jakubnowosad.com/posts) and [here](https://geocompx.org/post.html))
 <!-- - Providing workshops and consulting services to help others learn about geocomputation and spatial analysis (details [here](https://jakubnowosad.com/services)) -->
 
-### Let's connect! 🤝
+### Get in Touch 🤝
 
 I am always interested in connecting with others who share my passion for geocomputation and spatial analysis. Feel free to reach out to me on <!--[Twitter](https://twitter.com/jakub_nowosad) or--> [Mastodon](https://fosstodon.org/@nowosad) or [Bluesky](https://bsky.app/profile/jakubnowosad.com"). You can also learn more about me and my work at [jakubnowosad.com](https://jakubnowosad.com) and [geocompx.org](https://geocompx.org/).
 
